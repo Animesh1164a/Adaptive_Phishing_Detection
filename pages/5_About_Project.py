@@ -814,31 +814,13 @@ We sincerely express our heartfelt gratitude to all those who provided their val
 
 We would like to extend our special thanks to
 
-<b style="color:#1976D2;">Er. Kamlesh Dwivedi</b>,
-
-<b style="color:#1976D2;">Er. Kuldeep Patel</b>,
-
-<b style="color:#1976D2;">Er. Ajaz Ahmad</b>,
-
-and
-
-<b style="color:#1976D2;">Dr. Siddharth Agarwal</b>
+<b style="color:#1976D2;">Er. Kamlesh Dwivedi</b>, <b style="color:#1976D2;">Er. Kuldeep Patel</b>, <b style="color:#1976D2;">Er. Ajaz Ahmad</b>, and <b style="color:#1976D2;">Dr. Siddharth Agarwal</b>
 
 for their constant motivation, technical guidance, and insightful suggestions, which played a significant role in the successful completion of this project.
 
 <br><br>
 
-This work integrates the concepts of
-
-<b>Artificial Intelligence</b>,
-
-<b>Machine Learning</b>,
-
-<b>Explainable AI</b>,
-
-and
-
-<b>Cyber Security</b>
+This work integrates the concepts of <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Explainable AI</b>, and <b>Cyber Security</b>
 
 to develop an intelligent phishing detection system aimed at enhancing cyber awareness and providing reliable protection against modern phishing attacks.
 
