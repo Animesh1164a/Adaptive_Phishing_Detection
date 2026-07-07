@@ -779,54 +779,11 @@ with d2:
 
 <p>
 
-Department of Artificial Intelligence
-& Machine Learning
+Research Scholar
 
-Research
-
-Machine Learning
+AI Engineer
 
 Cyber Security
-
-</p>
-
-</div>
-
-""", unsafe_allow_html=True)
-
-# ==========================================================
-# DEPARTMENT
-# ==========================================================
-
-st.markdown(
-    "<h2 class='section-title'>🏫 Department</h2>",
-    unsafe_allow_html=True
-)
-
-st.markdown("""
-
-<div class="card">
-
-<h3>
-
-Department of Artificial Intelligence & Machine Learning
-
-</h3>
-
-<h4>
-
-Sam Higginbottom University of Agriculture,
-Technology and Sciences (SHUATS)
-
-</h4>
-
-<p>
-
-Prayagraj
-
-Uttar Pradesh
-
-India
 
 </p>
 
@@ -849,14 +806,13 @@ st.markdown("""
 
 <p>
 
-We sincerely acknowledge the continuous support and
-guidance received throughout the development of this
-project.
+We sincerely express our heartfelt gratitude to all those who provided their valuable guidance, encouragement, and continuous support throughout the development of this project.
 
-This work combines Artificial Intelligence,
-Machine Learning,
-Explainable AI and Cyber Security concepts
-to improve awareness against phishing attacks.
+We would like to extend our special thanks to <b>Er. Kamlesh Dwivedi</b>, <b>Er. Kuldeep Patel</b>, <b>Er. Ajaz Ahmad</b>, and <b>Dr. Siddharth Agarwal</b> for their constant motivation, technical guidance, and insightful suggestions, which played a significant role in the successful completion of this project.
+
+This work integrates the concepts of <b>Artificial Intelligence, Machine Learning, Explainable AI,</b> and <b>Cyber Security</b> to develop an intelligent phishing detection system aimed at enhancing cyber awareness and providing reliable protection against modern phishing attacks.
+
+We are sincerely grateful for their invaluable support and inspiration throughout this journey.
 
 </p>
 
@@ -914,7 +870,7 @@ st.info("""
 
 Adaptive Explainable Phishing Detection System
 
-Version 1.0
+Version 3.0
 
 © 2026
 
