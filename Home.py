@@ -274,7 +274,7 @@ with c2:
 
     if st.button("Open Email Scanner", key="email"):
 
-        st.switch_page("pages/3_📧_Email_Scanner.py")
+        st.switch_page("pages/3_Email_Scanner.py")
 
 
 with c3:
@@ -301,7 +301,7 @@ with c3:
 
     if st.button("Open Dashboard", key="dashboard"):
 
-        st.switch_page("pages/1_🏠_Dashboard.py")
+        st.switch_page("pages/1_Dashboard.py")
 
 
 with c4:
@@ -328,7 +328,7 @@ with c4:
 
     if st.button("Open History", key="history"):
 
-        st.switch_page("pages/4_📜_History.py")
+        st.switch_page("pages/4_History.py")
 
 
 # ==========================================================
